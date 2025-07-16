@@ -3,7 +3,7 @@ import random
 from telebot import types
 
 
-bot = telebot.TeleBot("8008957438:AAHWmkjKzxJXbiopw_pPGnHOb0uun1PLj6Y")
+bot = telebot.TeleBot("ТОКЕН_БОТА_СЮДА")
 
 
 advices = [
